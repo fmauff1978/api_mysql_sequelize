@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "u188687670_fmauff1978",
-    "password": "Vasco1978!",
-    "database": "u188687670_res_contas",
-    "host": "194.195.84.204",
+    "username": "##########",
+    "password": "##########",
+    "database": "#################",
+    "host": "###########",
     "dialect": "mysql"
   },
   "test": {
